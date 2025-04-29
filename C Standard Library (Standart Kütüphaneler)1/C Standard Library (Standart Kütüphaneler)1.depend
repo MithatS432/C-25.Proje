@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745925057 source:c:\users\mitha\onedrive\masaüstü\c projeleri\c standard library (standart kütüphaneler)1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
